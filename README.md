@@ -27,4 +27,4 @@ Este projeto é uma página web simples dedicada à Riot Games, desenvolvida com
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/alexandredias1/Site-Jogo.git
